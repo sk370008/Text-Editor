@@ -6,5 +6,5 @@ https://user-images.githubusercontent.com/77284210/204995636-f0392ee6-6c88-4a15-
 
 
 Intstructions:-
-To save a file click on save and save in any folder.
-To exit click on exit.
+To save a file click on file then save and save in any folder.
+To exit click on file and then click on exit.
